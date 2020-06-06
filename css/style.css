@@ -49,6 +49,7 @@ header{margin-bottom:25px;}
 @media only screen and (max-width:767px){.container{width:300px;}
 .item{width:120px;}
 .item img{width:120px;}
+.item video{ display: block;}
 #social-icons li{margin:0px 5px 5px 0px;}
 #social{height:75px;}
 #social aside{float:left;font-size:12px;}
